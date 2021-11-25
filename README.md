@@ -28,5 +28,7 @@ This project is about LogApp it is type of application which use to views all in
 * PHP is free. Download it from the official PHP resource: [wwww.php.net] (https://www.php.net/)
 * PHP is easy to learn and runs efficiently on the server side
 
+---
+
 
 
