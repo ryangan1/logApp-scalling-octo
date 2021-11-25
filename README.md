@@ -1,1 +1,2 @@
 # logApp
+> How logApp work    
