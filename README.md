@@ -18,7 +18,7 @@ This project is about LogApp it is type of application which use to views all in
 * PHP can be used to control user-access
 * PHP can encrypt data
 
-* With PHP you are not limited to output HTML. You can output images, PDF files, and even Flash movies. You can also output any text, such as XHTML and XML. *
+*With PHP you are not limited to output HTML. You can output images, PDF files, and even Flash movies. You can also output any text, such as XHTML and XML.*
 
 
 
