@@ -32,5 +32,8 @@ This project is about LogApp it is type of application which use to views all in
 
 ---
 
+# INSTALLATION
+*** You can visit this link for installation of PHP ***
+
 
 
