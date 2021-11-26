@@ -33,12 +33,12 @@ This project is about LogApp it is type of application which use to views all in
 ---
 
 # INSTALLATION
-***You can visit this link for installation of PHP***  
+You can visit this link for installation of PHP 
 [php_instal.asp](https://www.w3schools.com/php/php_install.asp)
 ---
 
 # AUTHORS
-*Ryan L. Gan*
+Ryan L. Gan
 
 ![Ryan Gan](https://scontent.fceb2-2.fna.fbcdn.net/v/t31.18172-8/28827010_2027425070831591_576707552861545428_o.jpg?_nc_cat=105&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGHHb-mfyqJN1C_EybzZ3x_CFIYY-Z_I9IIUhhj5n8j0g45orjv6EbTGBGlLtnBS7eAh4yQb75Vp4bojcyG6xid&_nc_ohc=36hAuVshJe8AX_A4BMt&_nc_ht=scontent.fceb2-2.fna&oh=c607b49938e7233b5ec52672c2fb5cb4&oe=61C455AE)
 
